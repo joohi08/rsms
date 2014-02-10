@@ -10,7 +10,7 @@ group :production do
   gem 'pg'
 end
 group :development, :test do
-  gem "teaspoon", ">= 0.7.4"
+
 end
 
 group :assets do
